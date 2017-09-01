@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aneurist on Martin Koehler</title>
-    <link>https://example.com/tags/aneurist/</link>
+    <link>https://martinkoehler.me/tags/aneurist/</link>
     <description>Recent content in Aneurist on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>@neuInfo: accessing heterogeneous data through semantic annotation</title>
-      <link>https://example.com/software/aneuinfo/</link>
+      <link>https://martinkoehler.me/software/aneuinfo/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/software/aneuinfo/</guid>
+      <guid>https://martinkoehler.me/software/aneuinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>@neurIST</title>
-      <link>https://example.com/project/aneurist/</link>
+      <link>https://martinkoehler.me/project/aneurist/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/aneurist/</guid>
+      <guid>https://martinkoehler.me/project/aneurist/</guid>
       <description>&lt;p&gt;@neurIST- Integrated Biomedical Informatics for the Management of Cerebral Aneurysms - is a European initiative within the Sixth Framework Programme Priority 2 of the Information Society Technologies IST. This 4-year project started in January 1st 2006 and finished the 31st of March 2010 with a 17 million € budget, gathering 28 public and private institutions of 12 European countries. Several organizations from the U.S.A., New Zealand and Japan participate as external collaborators. @neurIST partners include industrial, medical and academic institutions.&lt;/p&gt;
 
 &lt;p&gt;@neurIST is focussed on cerebral aneurysms and provides an integrated decision support system to assess the risk of aneurysm rupture in patients and to optimize their treatments.&lt;/p&gt;

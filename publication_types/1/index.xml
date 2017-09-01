@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on Martin Koehler</title>
-    <link>https://example.com/publication_types/1/</link>
+    <link>https://martinkoehler.me/publication_types/1/</link>
     <description>Recent content in 1 on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>The VADA Architecture for Cost-Effective Data Wrangling</title>
-      <link>https://example.com/publication/vada_arch/</link>
+      <link>https://martinkoehler.me/publication/vada_arch/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/vada_arch/</guid>
+      <guid>https://martinkoehler.me/publication/vada_arch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A containerized analytics framework for data and compute-intensive pipeline applications</title>
-      <link>https://example.com/publication/container/</link>
+      <link>https://martinkoehler.me/publication/container/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/container/</guid>
+      <guid>https://martinkoehler.me/publication/container/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The VPH-Share Data Management Platform: Enabling Collaborative Data Management for the Virtual Physiological Human Community</title>
-      <link>https://example.com/publication/vphshare/</link>
+      <link>https://martinkoehler.me/publication/vphshare/</link>
       <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/vphshare/</guid>
+      <guid>https://martinkoehler.me/publication/vphshare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VCE - A Versatile Cloud Environment for Scientific Applications</title>
-      <link>https://example.com/publication/vce/</link>
+      <link>https://martinkoehler.me/publication/vce/</link>
       <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/vce/</guid>
+      <guid>https://martinkoehler.me/publication/vce/</guid>
       <description></description>
     </item>
     

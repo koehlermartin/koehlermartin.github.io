@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Martin Koehler</title>
-    <link>https://example.com/tags/demo/</link>
+    <link>https://martinkoehler.me/tags/demo/</link>
     <description>Recent content in Demo on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>VADA demo paper accepted at SIGMOD&#39;17</title>
-      <link>https://example.com/post/demopaper/</link>
+      <link>https://martinkoehler.me/post/demopaper/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/demopaper/</guid>
+      <guid>https://martinkoehler.me/post/demopaper/</guid>
       <description>&lt;p&gt;The initial implementation of the VADA architecture was demonstrated at ACM SIGMOD in Chicago on 17th May 2017.  The paper that gives an overview of the demonstration is in the proceedings of the conference and a &lt;a href=&#34;https://vimeo.com/219836993&#34;&gt;screencast&lt;/a&gt; has been produced that gives a flavour of the system.&lt;/p&gt;
 </description>
     </item>

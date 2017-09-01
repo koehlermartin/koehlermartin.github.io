@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vphshare on Martin Koehler</title>
-    <link>https://example.com/tags/vphshare/</link>
+    <link>https://martinkoehler.me/tags/vphshare/</link>
     <description>Recent content in Vphshare on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>VPH-Share - Sharing for Healthcare</title>
-      <link>https://example.com/project/vphshare/</link>
+      <link>https://martinkoehler.me/project/vphshare/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/project/vphshare/</guid>
+      <guid>https://martinkoehler.me/project/vphshare/</guid>
       <description>&lt;p&gt;VPH-Share is building a safe, online facility in which medical simulation developers can produce workflows - chains of processing tasks - to allow raw medical data to be refined into meaningful diagnostic and therapeutic information. Via an easy to use graphical interface, all the functions needed by workflow developers will be provided, including design, construction, data-access and storage, high-speed computations, sensitivity analyses and results presentations. By allowing users to work collaboratively, and concentrate only on the actual workflow design process, we estimate that over half the tasks usually associated with workflow project construction can be avoided. Huge savings in time can be made while complex interactions with infrastructure designers can be avoided. VPH-Share will have simple workflows running within minutes.&lt;/p&gt;
 
 &lt;p&gt;Online facility for medical simulation workflows
@@ -27,10 +27,10 @@ Huge time savings&lt;/p&gt;
     
     <item>
       <title>VPH-Share data management platform (DMP)</title>
-      <link>https://example.com/software/vphshare/</link>
+      <link>https://martinkoehler.me/software/vphshare/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/software/vphshare/</guid>
+      <guid>https://martinkoehler.me/software/vphshare/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.vph-share.eu/content/d322&#34;&gt;DMP&lt;/a&gt; facilitates data management in the VPH-Share project. The DMP supports the data providers with tools to select data to be exposed, semantically annotate the data and securely provide the data to the VPH community by hosting it in the VPH-Share Cloud environment and exposing it via web service, REST and Linked Data interfaces.&lt;/p&gt;
 
 &lt;p&gt;The DMP involves client software known as the Data Publication Suite (DPS), to extract, semantically annotate, de-identify and publish data to the cloud hosted secure data storage servers. This suite overcomes issues for institutions whereby they cannot directly host their data on the internet and where patient identifiable data needs to be de-identified due to legal, ethical and internal policy restrictions. These servers are accessed through web services where data can be accessed in numerous ways including the standard database query language, SQL, but also semantically through Linked Data and the semantic query language, SPARQL.&lt;/p&gt;

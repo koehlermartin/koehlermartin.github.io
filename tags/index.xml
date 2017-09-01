@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Martin Koehler</title>
-    <link>https://example.com/tags/</link>
+    <link>https://martinkoehler.me/tags/</link>
     <description>Recent content in Tags on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,119 +12,119 @@
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://example.com/tags/academic/</link>
+      <link>https://martinkoehler.me/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/academic/</guid>
+      <guid>https://martinkoehler.me/tags/academic/</guid>
       <description>&lt;p&gt;Here is a list of all the content that has been tagged as &lt;em&gt;academic&lt;/em&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Aneurist</title>
-      <link>https://example.com/tags/aneurist/</link>
+      <link>https://martinkoehler.me/tags/aneurist/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/aneurist/</guid>
+      <guid>https://martinkoehler.me/tags/aneurist/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Architecture</title>
-      <link>https://example.com/tags/architecture/</link>
+      <link>https://martinkoehler.me/tags/architecture/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/architecture/</guid>
+      <guid>https://martinkoehler.me/tags/architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Austria</title>
-      <link>https://example.com/tags/austria/</link>
+      <link>https://martinkoehler.me/tags/austria/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/austria/</guid>
+      <guid>https://martinkoehler.me/tags/austria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bigdata</title>
-      <link>https://example.com/tags/bigdata/</link>
+      <link>https://martinkoehler.me/tags/bigdata/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/bigdata/</guid>
+      <guid>https://martinkoehler.me/tags/bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://example.com/tags/demo/</link>
+      <link>https://martinkoehler.me/tags/demo/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/demo/</guid>
+      <guid>https://martinkoehler.me/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manchester</title>
-      <link>https://example.com/tags/manchester/</link>
+      <link>https://martinkoehler.me/tags/manchester/</link>
       <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/manchester/</guid>
+      <guid>https://martinkoehler.me/tags/manchester/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Meetup</title>
-      <link>https://example.com/tags/meetup/</link>
+      <link>https://martinkoehler.me/tags/meetup/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/meetup/</guid>
+      <guid>https://martinkoehler.me/tags/meetup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>https://example.com/tags/others/</link>
+      <link>https://martinkoehler.me/tags/others/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/others/</guid>
+      <guid>https://martinkoehler.me/tags/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retida</title>
-      <link>https://example.com/tags/retida/</link>
+      <link>https://martinkoehler.me/tags/retida/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/retida/</guid>
+      <guid>https://martinkoehler.me/tags/retida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vada</title>
-      <link>https://example.com/tags/vada/</link>
+      <link>https://martinkoehler.me/tags/vada/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/vada/</guid>
+      <guid>https://martinkoehler.me/tags/vada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vce</title>
-      <link>https://example.com/tags/vce/</link>
+      <link>https://martinkoehler.me/tags/vce/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/vce/</guid>
+      <guid>https://martinkoehler.me/tags/vce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vphshare</title>
-      <link>https://example.com/tags/vphshare/</link>
+      <link>https://martinkoehler.me/tags/vphshare/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/vphshare/</guid>
+      <guid>https://martinkoehler.me/tags/vphshare/</guid>
       <description></description>
     </item>
     

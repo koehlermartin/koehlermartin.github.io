@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Martin Koehler</title>
-    <link>https://example.com/talk/</link>
+    <link>https://martinkoehler.me/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,91 +12,91 @@
     
     <item>
       <title>Data context informed data wrangling</title>
-      <link>https://example.com/talk/vadalondon/</link>
+      <link>https://martinkoehler.me/talk/vadalondon/</link>
       <pubDate>Fri, 15 Sep 2017 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/vadalondon/</guid>
+      <guid>https://martinkoehler.me/talk/vadalondon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of the VADA data integration system</title>
-      <link>https://example.com/talk/vadaoxford/</link>
+      <link>https://martinkoehler.me/talk/vadaoxford/</link>
       <pubDate>Thu, 26 May 2016 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/vadaoxford/</guid>
+      <guid>https://martinkoehler.me/talk/vadaoxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panel Discussion on Big Data</title>
-      <link>https://example.com/talk/futuretrends/</link>
+      <link>https://martinkoehler.me/talk/futuretrends/</link>
       <pubDate>Thu, 17 Sep 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/futuretrends/</guid>
+      <guid>https://martinkoehler.me/talk/futuretrends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data: Storage and Analysis</title>
-      <link>https://example.com/talk/maribor/</link>
+      <link>https://martinkoehler.me/talk/maribor/</link>
       <pubDate>Tue, 16 Jun 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/maribor/</guid>
+      <guid>https://martinkoehler.me/talk/maribor/</guid>
       <description></description>
     </item>
     
     <item>
       <title> RETIDA – Real Time data analytics in the mobility domain,</title>
-      <link>https://example.com/talk/ocg/</link>
+      <link>https://martinkoehler.me/talk/ocg/</link>
       <pubDate>Wed, 10 Jun 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/ocg/</guid>
+      <guid>https://martinkoehler.me/talk/ocg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hadoop ecosystem and its application in the mobility domain</title>
-      <link>https://example.com/talk/idc/</link>
+      <link>https://martinkoehler.me/talk/idc/</link>
       <pubDate>Thu, 21 May 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/idc/</guid>
+      <guid>https://martinkoehler.me/talk/idc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>M. Koehler: Data Science and Big Data: Research Landscape and Impact on the Mobility Domain</title>
-      <link>https://example.com/talk/salzburg/</link>
+      <link>https://martinkoehler.me/talk/salzburg/</link>
       <pubDate>Thu, 20 Nov 2014 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/salzburg/</guid>
+      <guid>https://martinkoehler.me/talk/salzburg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Potential of Big Data for Smart Cities and Urban Transportation</title>
-      <link>https://example.com/talk/urbanfutures/</link>
+      <link>https://martinkoehler.me/talk/urbanfutures/</link>
       <pubDate>Wed, 19 Nov 2014 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/urbanfutures/</guid>
+      <guid>https://martinkoehler.me/talk/urbanfutures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data in Austria</title>
-      <link>https://example.com/talk/beirat/</link>
+      <link>https://martinkoehler.me/talk/beirat/</link>
       <pubDate>Mon, 23 Jun 2014 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/beirat/</guid>
+      <guid>https://martinkoehler.me/talk/beirat/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data in Austria: Best Practices in Data Business</title>
-      <link>https://example.com/talk/semantic/</link>
+      <link>https://martinkoehler.me/talk/semantic/</link>
       <pubDate>Wed, 26 Mar 2014 15:00:00 +0000</pubDate>
       
-      <guid>https://example.com/talk/semantic/</guid>
+      <guid>https://martinkoehler.me/talk/semantic/</guid>
       <description></description>
     </item>
     
