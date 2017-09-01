@@ -1,0 +1,38 @@
++++
+# Recent and Upcoming Talks widget.
+
+date = "2016-04-20T00:00:00"
+draft = false
+
+title = "Recent & Upcoming Talks"
+subtitle = ""
+widget = "custom"
+
+# Order that this section will appear in.
+weight = 30
+
+# Number of talks to list.
+count = 10
+
+# Show talk details (such as abstract)? (true/false)
+detailed_list = false
+
++++
+
+<ul>
+<li>M. Koehler: Panel Discussion on Big Data, IDC SEE Forum 2015, Opatija, Croatia, (invited), 17.09.2015.</li>  
+<li>M. Koehler: Big Data: Storage and Analysis, Big Data for Business Summer School, University of Maribor, Maribor, (invited), 16.06.2015.</li>
+<li>M. Koehler: RETIDA &ndash; Real Time data analytics in the mobility domain, OCG Jahrestagung 2015, Workshop Cloud &amp; Big Data, Vienna, Austria, (invited), 10.6.2015.</li>
+<li>M. Koehler: The Hadoop ecosystem and its application in the mobility domain, IDC Datahub 2015, Vienna, (invited), 21.5.2015.</li>
+<li>M. Koehler: Introduction to Apache Spark, BigData Business Network, Groedig, Austria, (invited), 31.03.2015.</li>
+<li>M. Koehler: Data Science and Big Data: Research Landscape and Impact on the Mobility Domain; 1. Salzburger Data Science Symposium, FH Salzburg (invited); 20.11.2014.</li>
+<li>M. Koehler: Potential of Big Data for Smart Cities and Urban Transportation; Urban Future, Graz (invited); 19.11.2014.</li>
+<li>M. Koehler, M. Meir-Huber: Oesterreichische Potenziale und Best Practice f&uuml;r Big Data - Einblick in mobilit&auml;tsrelevante Aspekte; Impuls- &amp; Dialogforum "BIG-DATA-SICHERHEIT" im vernetzten Verkehr, Wien (invited); 01.10.2014.</li>
+<li>M. Koehler: Big Data in Austria; Sitzung des Beirates f&uuml;r Informationsgesellschaft - Schwerpunkt Big Data, Haus-, Hof- und Staatsarchiv, Minoritenplatz 1, 1014 Wien (invited); 23.06.2014.</li>
+<li>M. Koehler: The Apache Hadoop Ecosystem; IDC Data Hub Conference 2014, Novomatic Forum, Wien (invited); 05.06.2014.</li>
+<li>M. Koehler: Apache Spark - The next Hadoop?; IDC Data Hub Conference 2014, Novomatic Forum, Wien (invited); 05.06.2014.</li>
+<li>M. Koehler, A. Hanburry, M. Klemen: Big Data Austria - Hype und Hybris; Imagine 2014, Chaya Fuera, Wien (invited); 04.06.2014.</li>
+<li>M. Koehler, M. Meir-Huber: Big Data in Austria; Best Practices in Data Business, Vienna Semantic Web Meetup, Vienna (invited); 26.03.2014.</li>
+<li>M. Koehler: Towards Real-Time Data Analytics - Trends, Challenges and Use Cases in the Mobility Domain; IDC Big Data and Business Analytics Forum, Ljubljana (invited); 12.02.2014.</li>
+<li>M. Koehler, Future Trends in Cloud Computing &ndash; Einsichten aus der Forschung, The Value of Cloud, Novomatic Forum, Vienna (invited), 19.2.2013.</li>
+</ul>

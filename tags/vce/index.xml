@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vce on Martin Koehler</title>
+    <link>https://example.com/tags/vce/</link>
+    <description>Recent content in Vce on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/vce/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VCE - The Vienna Cloud Environment</title>
+      <link>https://example.com/software/vce/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/software/vce/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.par.univie.ac.at/project/vce&#34;&gt;VCE&lt;/a&gt; is a Cloud framework for exposing virtual appliances as Web services. The VCE follows the Software as a Service (SaaS) model and relies on the concept of virtual appliances to provide a common set of generic interfaces to the user while hiding the details of the underlying software and hardware infrastructure. The service provisioning framework in VCE has been developed on top of the Vienna Grid Environment (VGE), a service oriented infrastructure for virtualizing scientific applications and data sources as Web services. VGE was developed in context of the European projects GEMSS and @neurIST and has been Cloud-enabled by supporting virtual appliances.&lt;/p&gt;
+
+&lt;p&gt;Currently VCE comprises a set of preconfigured virtual appliances, including an installation of the VCE Web Service Environment (VCE-SE), and a Client Environment (VCE-CE).&lt;/p&gt;
+
+&lt;p&gt;VCE Virtual appliances are virtual images, which can be hosted in a Cloud environment, and support data access and mediation, scientific workflows, and data-intensive and HPC applications.&lt;/p&gt;
+
+&lt;p&gt;VCE-CE is a client-side framework and API for the development of user interfaces for Cloud-enabled applications, data sources, and workflows.&lt;/p&gt;
+
+&lt;p&gt;The project page provides more details: &lt;a href=&#34;http://www.par.univie.ac.at/project/vce&#34;&gt;VCE project page&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

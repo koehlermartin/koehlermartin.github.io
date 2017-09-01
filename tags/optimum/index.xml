@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimum on Martin Koehler</title>
+    <link>https://example.com/tags/optimum/</link>
+    <description>Recent content in Optimum on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/optimum/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>OPTIMUM - Multi-source Big Data Fusion Driven Proactivity for Intelligent Mobility</title>
+      <link>https://example.com/project/optimum/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/optimum/</guid>
+      <description>&lt;p&gt;The EU-funded OPTIMUM project is working to unveil state-of-the-art information technology solutions to improve transit, freight transportation and traffic connectivity throughout Europe. Through tailor-made applications, OPTIMUM is striving to bring proactive and problem-free mobility to modern transport systems by introducing and promoting interoperability, adaptability and dynamicity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

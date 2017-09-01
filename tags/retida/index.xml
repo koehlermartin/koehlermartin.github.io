@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Retida on Martin Koehler</title>
+    <link>https://example.com/tags/retida/</link>
+    <description>Recent content in Retida on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Mon, 01 May 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/retida/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RETIDA architecture paper accepted at BeyondMR@SIGMOD&#39;17</title>
+      <link>https://example.com/post/beyondmr/</link>
+      <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/beyondmr/</guid>
+      <description>&lt;p&gt;A paper on a novel architecture for large-scale data analytics pipelines supporting containers, different programming paradigms and storage solutions has been presented at BeyondMR @ ACM SIGMOD in Chicago on 19th May 2017.  The paper describes the system developed in the RETIDA project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retida - Real-Time Data Analytics in the Mobility Domain</title>
+      <link>https://example.com/project/retida/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/retida/</guid>
+      <description>&lt;p&gt;Enabling real-time, large-scale analytical workflows for data-intensive science requires the integration of state-of-the-art technologies from various different fields. We thus propose to bring together latest developments from Big Data (NoSQL solutions and data-intensive programming, streaming engines), HPC (parallel programming, multi-/many-core architectures, GPUs, clusters), data analytics (analytical models and algorithms), and workflow management (definition and orchestration) in an innovative manner. Optimizing and tuning the execution strategy for data analysis jobs requires explicit knowledge about the system (data and compute resources) and the algorithms used inside the workflows. Even for experts, tuning of complex workflows gets more and more involved and time-consuming and thus is often restricted to a single application or the outer workflow level. Therefore, there is an urgent need for adaptive mechanisms that automatically configure and tune workflows and their execution environment by taking into account the characteristics of the data, the workflow modules (existing in different implementation variants), and the available heterogeneous hardware infrastructure in order to achieve the required QoS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retida - Scalable and massively parallel data pipeline</title>
+      <link>https://example.com/software/retida/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/software/retida/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

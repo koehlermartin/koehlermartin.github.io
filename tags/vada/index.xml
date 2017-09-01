@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vada on Martin Koehler</title>
+    <link>https://example.com/tags/vada/</link>
+    <description>Recent content in Vada on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Wed, 10 May 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/vada/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VADA demo paper accepted at SIGMOD&#39;17</title>
+      <link>https://example.com/post/demopaper/</link>
+      <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/demopaper/</guid>
+      <description>&lt;p&gt;The initial implementation of the VADA architecture was demonstrated at ACM SIGMOD in Chicago on 17th May 2017.  The paper that gives an overview of the demonstration is in the proceedings of the conference and a &lt;a href=&#34;https://vimeo.com/219836993&#34;&gt;screencast&lt;/a&gt; has been produced that gives a flavour of the system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VADA: Value added data systems – principles and architecture</title>
+      <link>https://example.com/project/vada/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/vada/</guid>
+      <description>&lt;p&gt;The vision of VADA is to put in place principles and architectures for Value Added Data Systems, which support users in discovering, accessing, integrating and interpreting data. This requires taking into account the context of both users and the data. The user context characterises what data is relevant and the properties it must exhibit, e.g., in relation to consistency, timeliness and completeness of both the data itself and answers that can be obtained from it. The data context characterises the available resources, e.g., in terms of relevance, quality, performance and provenance. Adding value to data results in the best effort provision of integrated data to users, along with comprehensive information on quality and provenance. Users can then provide feedback on the results obtained, enabling changes to the ways in which data is produced, and leading to continuous improvement in the user experience.&lt;/p&gt;
+
+&lt;p&gt;For example, security companies, such as our partner Horus, require continuous collection and analysis of online evidence. As their letter indicates, reducing the costs associated with large-scale identification of relevant entities and events from the open web is one of the most pressing challenges for the intelligence community. However, the cost of producing good quality risk and threat assessments is high because currently, our analysts spend a considerable amount of their time on data collection and preparation; time that we would rather dedicate to in-depth data analysis. Thus the vision of VADA is to address the pressing need for more cost-effective techniques for adding value to data at scale, as is required in many sectors, including those represented by the data organisations among our partners:
+The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Security in security, FutureEverything in smart cities, LambdaTek and PricePanda in online retailing, and Huawei in telecommunications. The commercial opportunities associated with effective solutions are great, as is reflected in the close engagement of our technical partners, Microsoft, LogicBlox, FaceBook, and NeoTechnology who must develop platforms that support their customers in adding value to their data. The strong commitment of these organisations to the programme is reflected in the diverse and substantive contributions, valued at $2.02M ($337k in cash and $1.68M in kind).&lt;/p&gt;
+
+&lt;p&gt;As described below, meeting the vision involves considerable ambition, bringing together and redefining several heretofore largely independently investigated areas, each of which are individually challenging. The need for flexible, integrated solutions to these problems is emphasised in the recent Beckman Report on Database Research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Started as research associate at University of Manchester in the VADA project</title>
+      <link>https://example.com/post/vadastart/</link>
+      <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/vadastart/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

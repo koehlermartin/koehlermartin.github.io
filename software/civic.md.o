@@ -1,0 +1,31 @@
++++
+# Date this page was created.
+date = "2015-04-27"
+
+# Project title.
+title = "CIVIC - Construction in Vicinities: Innovative Co-creation"
+
+# Project summary to display on homepage.
+summary = "JPI Urban Europe, March 2016 – August 2018"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["civic"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "https://www.civic-project.eu/"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = "Civic"
+
++++
+
+Construction is a necessity to create attractive and sustainable cities. However, the transport of goods and personnel to construction sites disturbs residents, businesses and road users. By involving stakeholders, the CIVIC project contributes to increased transport and energy efficiency as well as to minimized disruptions and nuisance from construction logistics.

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Martin Koehler</title>
+    <link>https://example.com/project/</link>
+    <description>Recent content in Projects on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VADA: Value added data systems – principles and architecture</title>
+      <link>https://example.com/project/vada/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/vada/</guid>
+      <description>&lt;p&gt;The vision of VADA is to put in place principles and architectures for Value Added Data Systems, which support users in discovering, accessing, integrating and interpreting data. This requires taking into account the context of both users and the data. The user context characterises what data is relevant and the properties it must exhibit, e.g., in relation to consistency, timeliness and completeness of both the data itself and answers that can be obtained from it. The data context characterises the available resources, e.g., in terms of relevance, quality, performance and provenance. Adding value to data results in the best effort provision of integrated data to users, along with comprehensive information on quality and provenance. Users can then provide feedback on the results obtained, enabling changes to the ways in which data is produced, and leading to continuous improvement in the user experience.&lt;/p&gt;
+
+&lt;p&gt;For example, security companies, such as our partner Horus, require continuous collection and analysis of online evidence. As their letter indicates, reducing the costs associated with large-scale identification of relevant entities and events from the open web is one of the most pressing challenges for the intelligence community. However, the cost of producing good quality risk and threat assessments is high because currently, our analysts spend a considerable amount of their time on data collection and preparation; time that we would rather dedicate to in-depth data analysis. Thus the vision of VADA is to address the pressing need for more cost-effective techniques for adding value to data at scale, as is required in many sectors, including those represented by the data organisations among our partners:
+The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Security in security, FutureEverything in smart cities, LambdaTek and PricePanda in online retailing, and Huawei in telecommunications. The commercial opportunities associated with effective solutions are great, as is reflected in the close engagement of our technical partners, Microsoft, LogicBlox, FaceBook, and NeoTechnology who must develop platforms that support their customers in adding value to their data. The strong commitment of these organisations to the programme is reflected in the diverse and substantive contributions, valued at $2.02M ($337k in cash and $1.68M in kind).&lt;/p&gt;
+
+&lt;p&gt;As described below, meeting the vision involves considerable ambition, bringing together and redefining several heretofore largely independently investigated areas, each of which are individually challenging. The need for flexible, integrated solutions to these problems is emphasised in the recent Beckman Report on Database Research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retida - Real-Time Data Analytics in the Mobility Domain</title>
+      <link>https://example.com/project/retida/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/retida/</guid>
+      <description>&lt;p&gt;Enabling real-time, large-scale analytical workflows for data-intensive science requires the integration of state-of-the-art technologies from various different fields. We thus propose to bring together latest developments from Big Data (NoSQL solutions and data-intensive programming, streaming engines), HPC (parallel programming, multi-/many-core architectures, GPUs, clusters), data analytics (analytical models and algorithms), and workflow management (definition and orchestration) in an innovative manner. Optimizing and tuning the execution strategy for data analysis jobs requires explicit knowledge about the system (data and compute resources) and the algorithms used inside the workflows. Even for experts, tuning of complex workflows gets more and more involved and time-consuming and thus is often restricted to a single application or the outer workflow level. Therefore, there is an urgent need for adaptive mechanisms that automatically configure and tune workflows and their execution environment by taking into account the characteristics of the data, the workflow modules (existing in different implementation variants), and the available heterogeneous hardware infrastructure in order to achieve the required QoS.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>VPH-Share - Sharing for Healthcare</title>
+      <link>https://example.com/project/vphshare/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/vphshare/</guid>
+      <description>&lt;p&gt;VPH-Share is building a safe, online facility in which medical simulation developers can produce workflows - chains of processing tasks - to allow raw medical data to be refined into meaningful diagnostic and therapeutic information. Via an easy to use graphical interface, all the functions needed by workflow developers will be provided, including design, construction, data-access and storage, high-speed computations, sensitivity analyses and results presentations. By allowing users to work collaboratively, and concentrate only on the actual workflow design process, we estimate that over half the tasks usually associated with workflow project construction can be avoided. Huge savings in time can be made while complex interactions with infrastructure designers can be avoided. VPH-Share will have simple workflows running within minutes.&lt;/p&gt;
+
+&lt;p&gt;Online facility for medical simulation workflows
+50% of workflow construction tasks avoided
+Workflow development functions provided
+Huge time savings&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>@neurIST</title>
+      <link>https://example.com/project/aneurist/</link>
+      <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/aneurist/</guid>
+      <description>&lt;p&gt;@neurIST- Integrated Biomedical Informatics for the Management of Cerebral Aneurysms - is a European initiative within the Sixth Framework Programme Priority 2 of the Information Society Technologies IST. This 4-year project started in January 1st 2006 and finished the 31st of March 2010 with a 17 million € budget, gathering 28 public and private institutions of 12 European countries. Several organizations from the U.S.A., New Zealand and Japan participate as external collaborators. @neurIST partners include industrial, medical and academic institutions.&lt;/p&gt;
+
+&lt;p&gt;@neurIST is focussed on cerebral aneurysms and provides an integrated decision support system to assess the risk of aneurysm rupture in patients and to optimize their treatments.&lt;/p&gt;
+
+&lt;p&gt;@neurIST believes that the current process of cerebral aneurysm diagnosis, treatment planning and treatment development is highly compromised by the fragmentation of relevant data.&lt;/p&gt;
+
+&lt;p&gt;@neurIST presents a new paradigm to understand and manage cerebral aneurysms. A complete IT infrastructure has been developeded for the management and processing of the vast amount of heterogeneous data acquired during diagnosis.&lt;/p&gt;
+
+&lt;p&gt;@neurIST benefits patients with better diagnostics, prevention and treatment because it combines efforts of clinicians and industry. Through research clinicians gain a greater insight in aneurysm understanding, while industry will be dragged by these achievements to develop more suitable medical devices to treat the disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Other projects</title>
+      <link>https://example.com/project/others/</link>
+      <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/others/</guid>
+      <description>&lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://www.optimumproject.eu/&#34;&gt;OPTIMUM&lt;/a&gt; - Multi-source Big Data Fusion Driven Proactivity for Intelligent Mobility&lt;/b&gt;&lt;br&gt;
+European Commission, H2020-MG-2014, May 2015 – April 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;https://www.civic-project.eu/&#34;&gt;CIVIC&lt;/a&gt; - Construction in Vicinities: Innovative Co-creation&lt;/b&gt;&lt;br&gt;
+JPI Urban Europe, March 2016 – August 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://www.transport-research.info/project/istrada-%E2%80%93-intelligent-system-traffic-and-road-infrastructure-related-data&#34;&gt;iSTRADA&lt;/a&gt; - Intelligent System for Traffic and Road-infrastructure relAted Data&lt;/b&gt;&lt;br&gt;
+FFG-Austrian Research Promotion Agency, April 2015 – March 2016&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://www.crossingborders.cc/en/&#34;&gt;Crossing Borders&lt;/a&gt;&lt;/b&gt;&lt;br&gt;
+FFG-Austrian Research Promotion Agency, January 2013 – December 2015&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;#BigData in #Austria - Österreichische Potenziale und Best Practice für Big Data &lt;/b&gt;&lt;br&gt;
+FFG-Austrian Research Promotion Agency, November 2013 – April 2014&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;https://cs.univie.ac.at/project/CPAMMS&#34;&gt;CPAMMS&lt;/a&gt;&lt;/b&gt;&lt;br&gt;
+University project, November 2006 – April 2009&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://homepage.univie.ac.at/siegfried.benkner/aurora/project2/index.html&#34;&gt;FSB Aurora&lt;/a&gt;&lt;/b&gt;&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

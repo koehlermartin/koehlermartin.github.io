@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Civic on Martin Koehler</title>
+    <link>https://example.com/tags/civic/</link>
+    <description>Recent content in Civic on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/civic/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>CIVIC - Construction in Vicinities: Innovative Co-creation</title>
+      <link>https://example.com/project/civic/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/project/civic/</guid>
+      <description>&lt;p&gt;Construction is a necessity to create attractive and sustainable cities. However, the transport of goods and personnel to construction sites disturbs residents, businesses and road users. By involving stakeholders, the CIVIC project contributes to increased transport and energy efficiency as well as to minimized disruptions and nuisance from construction logistics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

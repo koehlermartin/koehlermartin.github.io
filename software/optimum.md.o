@@ -1,0 +1,31 @@
++++
+# Date this page was created.
+date = "2015-04-27"
+
+# Project title.
+title = "OPTIMUM - Multi-source Big Data Fusion Driven Proactivity for Intelligent Mobility"
+
+# Project summary to display on homepage.
+summary = "European Commission, H2020-MG-2014, May 2015 – April 2018"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["optimum"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = "http://www.optimumproject.eu/"
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = "Optimum"
+
++++
+
+The EU-funded OPTIMUM project is working to unveil state-of-the-art information technology solutions to improve transit, freight transportation and traffic connectivity throughout Europe. Through tailor-made applications, OPTIMUM is striving to bring proactive and problem-free mobility to modern transport systems by introducing and promoting interoperability, adaptability and dynamicity.
