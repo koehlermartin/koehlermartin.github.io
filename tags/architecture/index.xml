@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Architecture on Martin Koehler</title>
-    <link>http://martinkoehler.me/tags/architecture/</link>
+    <link>https://koehlermartin.github.io/tags/architecture/</link>
     <description>Recent content in Architecture on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>RETIDA architecture paper accepted at BeyondMR@SIGMOD&#39;17</title>
-      <link>http://martinkoehler.me/post/beyondmr/</link>
+      <link>https://koehlermartin.github.io/post/beyondmr/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/post/beyondmr/</guid>
+      <guid>https://koehlermartin.github.io/post/beyondmr/</guid>
       <description>&lt;p&gt;A paper on a novel architecture for large-scale data analytics pipelines supporting containers, different programming paradigms and storage solutions has been presented at BeyondMR @ ACM SIGMOD in Chicago on 19th May 2017.  The paper describes the system developed in the RETIDA project.&lt;/p&gt;
 </description>
     </item>

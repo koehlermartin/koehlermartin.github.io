@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Martin Koehler</title>
-    <link>http://martinkoehler.me/publication/</link>
+    <link>https://koehlermartin.github.io/publication/</link>
     <description>Recent content in Publications on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,55 +12,55 @@
     
     <item>
       <title>The VADA Architecture for Cost-Effective Data Wrangling</title>
-      <link>http://martinkoehler.me/publication/vada_arch/</link>
+      <link>https://koehlermartin.github.io/publication/vada_arch/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/vada_arch/</guid>
+      <guid>https://koehlermartin.github.io/publication/vada_arch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A containerized analytics framework for data and compute-intensive pipeline applications</title>
-      <link>http://martinkoehler.me/publication/container/</link>
+      <link>https://koehlermartin.github.io/publication/container/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/container/</guid>
+      <guid>https://koehlermartin.github.io/publication/container/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An adaptive framework for utility-based optimization of scientific applications in the cloud</title>
-      <link>http://martinkoehler.me/publication/adaptive/</link>
+      <link>https://koehlermartin.github.io/publication/adaptive/</link>
       <pubDate>Mon, 12 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/adaptive/</guid>
+      <guid>https://koehlermartin.github.io/publication/adaptive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#Big Data in #Austria</title>
-      <link>http://martinkoehler.me/publication/bigdata/</link>
+      <link>https://koehlermartin.github.io/publication/bigdata/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/bigdata/</guid>
+      <guid>https://koehlermartin.github.io/publication/bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The VPH-Share Data Management Platform: Enabling Collaborative Data Management for the Virtual Physiological Human Community</title>
-      <link>http://martinkoehler.me/publication/vphshare/</link>
+      <link>https://koehlermartin.github.io/publication/vphshare/</link>
       <pubDate>Mon, 02 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/vphshare/</guid>
+      <guid>https://koehlermartin.github.io/publication/vphshare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VCE - A Versatile Cloud Environment for Scientific Applications</title>
-      <link>http://martinkoehler.me/publication/vce/</link>
+      <link>https://koehlermartin.github.io/publication/vce/</link>
       <pubDate>Sat, 02 Apr 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://martinkoehler.me/publication/vce/</guid>
+      <guid>https://koehlermartin.github.io/publication/vce/</guid>
       <description></description>
     </item>
     
