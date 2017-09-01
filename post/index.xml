@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Martin Koehler</title>
-    <link>https://martinkoehler.me/post/</link>
+    <link>http://martinkoehler.me/post/</link>
     <description>Recent content in Posts on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,40 +12,40 @@
     
     <item>
       <title>VADA demo paper accepted at SIGMOD&#39;17</title>
-      <link>https://martinkoehler.me/post/demopaper/</link>
+      <link>http://martinkoehler.me/post/demopaper/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/demopaper/</guid>
+      <guid>http://martinkoehler.me/post/demopaper/</guid>
       <description>&lt;p&gt;The initial implementation of the VADA architecture was demonstrated at ACM SIGMOD in Chicago on 17th May 2017.  The paper that gives an overview of the demonstration is in the proceedings of the conference and a &lt;a href=&#34;https://vimeo.com/219836993&#34;&gt;screencast&lt;/a&gt; has been produced that gives a flavour of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RETIDA architecture paper accepted at BeyondMR@SIGMOD&#39;17</title>
-      <link>https://martinkoehler.me/post/beyondmr/</link>
+      <link>http://martinkoehler.me/post/beyondmr/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/beyondmr/</guid>
+      <guid>http://martinkoehler.me/post/beyondmr/</guid>
       <description>&lt;p&gt;A paper on a novel architecture for large-scale data analytics pipelines supporting containers, different programming paradigms and storage solutions has been presented at BeyondMR @ ACM SIGMOD in Chicago on 19th May 2017.  The paper describes the system developed in the RETIDA project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Austrian Big Data Forum organises next DataCamp</title>
-      <link>https://martinkoehler.me/post/meetup/</link>
+      <link>http://martinkoehler.me/post/meetup/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/meetup/</guid>
+      <guid>http://martinkoehler.me/post/meetup/</guid>
       <description>&lt;p&gt;The meetup group &lt;a href=&#34;https://www.meetup.com/Austrian-Cloud-and-Big-Data-Forum/&#34;&gt;Austrian Big Data Forum&lt;/a&gt; organises a Barcamp Event with short Lightning Talks and long discussions about your topics in Vienna. The event is hosted by the Austrian computer society (OCG) and takes place May 30, 2017.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Started as research associate at University of Manchester in the VADA project</title>
-      <link>https://martinkoehler.me/post/vadastart/</link>
+      <link>http://martinkoehler.me/post/vadastart/</link>
       <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/vadastart/</guid>
+      <guid>http://martinkoehler.me/post/vadastart/</guid>
       <description></description>
     </item>
     

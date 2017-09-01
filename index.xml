@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin Koehler on Martin Koehler</title>
-    <link>https://martinkoehler.me/</link>
+    <link>http://martinkoehler.me/</link>
     <description>Recent content in Martin Koehler on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,48 +12,48 @@
     
     <item>
       <title>Data context informed data wrangling</title>
-      <link>https://martinkoehler.me/talk/vadalondon/</link>
+      <link>http://martinkoehler.me/talk/vadalondon/</link>
       <pubDate>Fri, 15 Sep 2017 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/vadalondon/</guid>
+      <guid>http://martinkoehler.me/talk/vadalondon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VADA demo paper accepted at SIGMOD&#39;17</title>
-      <link>https://martinkoehler.me/post/demopaper/</link>
+      <link>http://martinkoehler.me/post/demopaper/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/demopaper/</guid>
+      <guid>http://martinkoehler.me/post/demopaper/</guid>
       <description>&lt;p&gt;The initial implementation of the VADA architecture was demonstrated at ACM SIGMOD in Chicago on 17th May 2017.  The paper that gives an overview of the demonstration is in the proceedings of the conference and a &lt;a href=&#34;https://vimeo.com/219836993&#34;&gt;screencast&lt;/a&gt; has been produced that gives a flavour of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>RETIDA architecture paper accepted at BeyondMR@SIGMOD&#39;17</title>
-      <link>https://martinkoehler.me/post/beyondmr/</link>
+      <link>http://martinkoehler.me/post/beyondmr/</link>
       <pubDate>Mon, 01 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/beyondmr/</guid>
+      <guid>http://martinkoehler.me/post/beyondmr/</guid>
       <description>&lt;p&gt;A paper on a novel architecture for large-scale data analytics pipelines supporting containers, different programming paradigms and storage solutions has been presented at BeyondMR @ ACM SIGMOD in Chicago on 19th May 2017.  The paper describes the system developed in the RETIDA project.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The VADA Architecture for Cost-Effective Data Wrangling</title>
-      <link>https://martinkoehler.me/publication/vada_arch/</link>
+      <link>http://martinkoehler.me/publication/vada_arch/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/publication/vada_arch/</guid>
+      <guid>http://martinkoehler.me/publication/vada_arch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VADA: Value added data systems – principles and architecture</title>
-      <link>https://martinkoehler.me/project/vada/</link>
+      <link>http://martinkoehler.me/project/vada/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/project/vada/</guid>
+      <guid>http://martinkoehler.me/project/vada/</guid>
       <description>&lt;p&gt;The vision of VADA is to put in place principles and architectures for Value Added Data Systems, which support users in discovering, accessing, integrating and interpreting data. This requires taking into account the context of both users and the data. The user context characterises what data is relevant and the properties it must exhibit, e.g., in relation to consistency, timeliness and completeness of both the data itself and answers that can be obtained from it. The data context characterises the available resources, e.g., in terms of relevance, quality, performance and provenance. Adding value to data results in the best effort provision of integrated data to users, along with comprehensive information on quality and provenance. Users can then provide feedback on the results obtained, enabling changes to the ways in which data is produced, and leading to continuous improvement in the user experience.&lt;/p&gt;
 
 &lt;p&gt;For example, security companies, such as our partner Horus, require continuous collection and analysis of online evidence. As their letter indicates, reducing the costs associated with large-scale identification of relevant entities and events from the open web is one of the most pressing challenges for the intelligence community. However, the cost of producing good quality risk and threat assessments is high because currently, our analysts spend a considerable amount of their time on data collection and preparation; time that we would rather dedicate to in-depth data analysis. Thus the vision of VADA is to address the pressing need for more cost-effective techniques for adding value to data at scale, as is required in many sectors, including those represented by the data organisations among our partners:
@@ -65,93 +65,93 @@ The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Securi
     
     <item>
       <title>Austrian Big Data Forum organises next DataCamp</title>
-      <link>https://martinkoehler.me/post/meetup/</link>
+      <link>http://martinkoehler.me/post/meetup/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/meetup/</guid>
+      <guid>http://martinkoehler.me/post/meetup/</guid>
       <description>&lt;p&gt;The meetup group &lt;a href=&#34;https://www.meetup.com/Austrian-Cloud-and-Big-Data-Forum/&#34;&gt;Austrian Big Data Forum&lt;/a&gt; organises a Barcamp Event with short Lightning Talks and long discussions about your topics in Vienna. The event is hosted by the Austrian computer society (OCG) and takes place May 30, 2017.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A containerized analytics framework for data and compute-intensive pipeline applications</title>
-      <link>https://martinkoehler.me/publication/container/</link>
+      <link>http://martinkoehler.me/publication/container/</link>
       <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/publication/container/</guid>
+      <guid>http://martinkoehler.me/publication/container/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demonstration of the VADA data integration system</title>
-      <link>https://martinkoehler.me/talk/vadaoxford/</link>
+      <link>http://martinkoehler.me/talk/vadaoxford/</link>
       <pubDate>Thu, 26 May 2016 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/vadaoxford/</guid>
+      <guid>http://martinkoehler.me/talk/vadaoxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Retida - Real-Time Data Analytics in the Mobility Domain</title>
-      <link>https://martinkoehler.me/project/retida/</link>
+      <link>http://martinkoehler.me/project/retida/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/project/retida/</guid>
+      <guid>http://martinkoehler.me/project/retida/</guid>
       <description>&lt;p&gt;Enabling real-time, large-scale analytical workflows for data-intensive science requires the integration of state-of-the-art technologies from various different fields. We thus propose to bring together latest developments from Big Data (NoSQL solutions and data-intensive programming, streaming engines), HPC (parallel programming, multi-/many-core architectures, GPUs, clusters), data analytics (analytical models and algorithms), and workflow management (definition and orchestration) in an innovative manner. Optimizing and tuning the execution strategy for data analysis jobs requires explicit knowledge about the system (data and compute resources) and the algorithms used inside the workflows. Even for experts, tuning of complex workflows gets more and more involved and time-consuming and thus is often restricted to a single application or the outer workflow level. Therefore, there is an urgent need for adaptive mechanisms that automatically configure and tune workflows and their execution environment by taking into account the characteristics of the data, the workflow modules (existing in different implementation variants), and the available heterogeneous hardware infrastructure in order to achieve the required QoS.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Retida - Scalable and massively parallel data pipeline</title>
-      <link>https://martinkoehler.me/software/retida/</link>
+      <link>http://martinkoehler.me/software/retida/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/software/retida/</guid>
+      <guid>http://martinkoehler.me/software/retida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Started as research associate at University of Manchester in the VADA project</title>
-      <link>https://martinkoehler.me/post/vadastart/</link>
+      <link>http://martinkoehler.me/post/vadastart/</link>
       <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/vadastart/</guid>
+      <guid>http://martinkoehler.me/post/vadastart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Panel Discussion on Big Data</title>
-      <link>https://martinkoehler.me/talk/futuretrends/</link>
+      <link>http://martinkoehler.me/talk/futuretrends/</link>
       <pubDate>Thu, 17 Sep 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/futuretrends/</guid>
+      <guid>http://martinkoehler.me/talk/futuretrends/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data: Storage and Analysis</title>
-      <link>https://martinkoehler.me/talk/maribor/</link>
+      <link>http://martinkoehler.me/talk/maribor/</link>
       <pubDate>Tue, 16 Jun 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/maribor/</guid>
+      <guid>http://martinkoehler.me/talk/maribor/</guid>
       <description></description>
     </item>
     
     <item>
       <title> RETIDA – Real Time data analytics in the mobility domain,</title>
-      <link>https://martinkoehler.me/talk/ocg/</link>
+      <link>http://martinkoehler.me/talk/ocg/</link>
       <pubDate>Wed, 10 Jun 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/ocg/</guid>
+      <guid>http://martinkoehler.me/talk/ocg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Hadoop ecosystem and its application in the mobility domain</title>
-      <link>https://martinkoehler.me/talk/idc/</link>
+      <link>http://martinkoehler.me/talk/idc/</link>
       <pubDate>Thu, 21 May 2015 15:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/talk/idc/</guid>
+      <guid>http://martinkoehler.me/talk/idc/</guid>
       <description></description>
     </item>
     

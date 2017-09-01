@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softwares on Martin Koehler</title>
-    <link>https://martinkoehler.me/software/</link>
+    <link>http://martinkoehler.me/software/</link>
     <description>Recent content in Softwares on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Retida - Scalable and massively parallel data pipeline</title>
-      <link>https://martinkoehler.me/software/retida/</link>
+      <link>http://martinkoehler.me/software/retida/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/software/retida/</guid>
+      <guid>http://martinkoehler.me/software/retida/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VCE - The Vienna Cloud Environment</title>
-      <link>https://martinkoehler.me/software/vce/</link>
+      <link>http://martinkoehler.me/software/vce/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/software/vce/</guid>
+      <guid>http://martinkoehler.me/software/vce/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.par.univie.ac.at/project/vce&#34;&gt;VCE&lt;/a&gt; is a Cloud framework for exposing virtual appliances as Web services. The VCE follows the Software as a Service (SaaS) model and relies on the concept of virtual appliances to provide a common set of generic interfaces to the user while hiding the details of the underlying software and hardware infrastructure. The service provisioning framework in VCE has been developed on top of the Vienna Grid Environment (VGE), a service oriented infrastructure for virtualizing scientific applications and data sources as Web services. VGE was developed in context of the European projects GEMSS and @neurIST and has been Cloud-enabled by supporting virtual appliances.&lt;/p&gt;
 
 &lt;p&gt;Currently VCE comprises a set of preconfigured virtual appliances, including an installation of the VCE Web Service Environment (VCE-SE), and a Client Environment (VCE-CE).&lt;/p&gt;
@@ -39,10 +39,10 @@
     
     <item>
       <title>VPH-Share data management platform (DMP)</title>
-      <link>https://martinkoehler.me/software/vphshare/</link>
+      <link>http://martinkoehler.me/software/vphshare/</link>
       <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/software/vphshare/</guid>
+      <guid>http://martinkoehler.me/software/vphshare/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;http://www.vph-share.eu/content/d322&#34;&gt;DMP&lt;/a&gt; facilitates data management in the VPH-Share project. The DMP supports the data providers with tools to select data to be exposed, semantically annotate the data and securely provide the data to the VPH community by hosting it in the VPH-Share Cloud environment and exposing it via web service, REST and Linked Data interfaces.&lt;/p&gt;
 
 &lt;p&gt;The DMP involves client software known as the Data Publication Suite (DPS), to extract, semantically annotate, de-identify and publish data to the cloud hosted secure data storage servers. This suite overcomes issues for institutions whereby they cannot directly host their data on the internet and where patient identifiable data needs to be de-identified due to legal, ethical and internal policy restrictions. These servers are accessed through web services where data can be accessed in numerous ways including the standard database query language, SQL, but also semantically through Linked Data and the semantic query language, SPARQL.&lt;/p&gt;
@@ -53,10 +53,10 @@
     
     <item>
       <title>@neuInfo: accessing heterogeneous data through semantic annotation</title>
-      <link>https://martinkoehler.me/software/aneuinfo/</link>
+      <link>http://martinkoehler.me/software/aneuinfo/</link>
       <pubDate>Sat, 27 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/software/aneuinfo/</guid>
+      <guid>http://martinkoehler.me/software/aneuinfo/</guid>
       <description></description>
     </item>
     

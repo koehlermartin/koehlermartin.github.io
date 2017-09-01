@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Others on Martin Koehler</title>
-    <link>https://martinkoehler.me/tags/others/</link>
+    <link>http://martinkoehler.me/tags/others/</link>
     <description>Recent content in Others on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Other projects</title>
-      <link>https://martinkoehler.me/project/others/</link>
+      <link>http://martinkoehler.me/project/others/</link>
       <pubDate>Tue, 27 Apr 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/project/others/</guid>
+      <guid>http://martinkoehler.me/project/others/</guid>
       <description>&lt;p&gt;&lt;b&gt;&lt;a href=&#34;http://www.optimumproject.eu/&#34;&gt;OPTIMUM&lt;/a&gt; - Multi-source Big Data Fusion Driven Proactivity for Intelligent Mobility&lt;/b&gt;&lt;br&gt;
 European Commission, H2020-MG-2014, May 2015 – April 2018&lt;/p&gt;
 

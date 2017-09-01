@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vada on Martin Koehler</title>
-    <link>https://martinkoehler.me/tags/vada/</link>
+    <link>http://martinkoehler.me/tags/vada/</link>
     <description>Recent content in Vada on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,20 +12,20 @@
     
     <item>
       <title>VADA demo paper accepted at SIGMOD&#39;17</title>
-      <link>https://martinkoehler.me/post/demopaper/</link>
+      <link>http://martinkoehler.me/post/demopaper/</link>
       <pubDate>Wed, 10 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/demopaper/</guid>
+      <guid>http://martinkoehler.me/post/demopaper/</guid>
       <description>&lt;p&gt;The initial implementation of the VADA architecture was demonstrated at ACM SIGMOD in Chicago on 17th May 2017.  The paper that gives an overview of the demonstration is in the proceedings of the conference and a &lt;a href=&#34;https://vimeo.com/219836993&#34;&gt;screencast&lt;/a&gt; has been produced that gives a flavour of the system.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>VADA: Value added data systems – principles and architecture</title>
-      <link>https://martinkoehler.me/project/vada/</link>
+      <link>http://martinkoehler.me/project/vada/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/project/vada/</guid>
+      <guid>http://martinkoehler.me/project/vada/</guid>
       <description>&lt;p&gt;The vision of VADA is to put in place principles and architectures for Value Added Data Systems, which support users in discovering, accessing, integrating and interpreting data. This requires taking into account the context of both users and the data. The user context characterises what data is relevant and the properties it must exhibit, e.g., in relation to consistency, timeliness and completeness of both the data itself and answers that can be obtained from it. The data context characterises the available resources, e.g., in terms of relevance, quality, performance and provenance. Adding value to data results in the best effort provision of integrated data to users, along with comprehensive information on quality and provenance. Users can then provide feedback on the results obtained, enabling changes to the ways in which data is produced, and leading to continuous improvement in the user experience.&lt;/p&gt;
 
 &lt;p&gt;For example, security companies, such as our partner Horus, require continuous collection and analysis of online evidence. As their letter indicates, reducing the costs associated with large-scale identification of relevant entities and events from the open web is one of the most pressing challenges for the intelligence community. However, the cost of producing good quality risk and threat assessments is high because currently, our analysts spend a considerable amount of their time on data collection and preparation; time that we would rather dedicate to in-depth data analysis. Thus the vision of VADA is to address the pressing need for more cost-effective techniques for adding value to data at scale, as is required in many sectors, including those represented by the data organisations among our partners:
@@ -37,10 +37,10 @@ The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Securi
     
     <item>
       <title>Started as research associate at University of Manchester in the VADA project</title>
-      <link>https://martinkoehler.me/post/vadastart/</link>
+      <link>http://martinkoehler.me/post/vadastart/</link>
       <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/vadastart/</guid>
+      <guid>http://martinkoehler.me/post/vadastart/</guid>
       <description></description>
     </item>
     

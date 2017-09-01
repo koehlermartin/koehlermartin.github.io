@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meetup on Martin Koehler</title>
-    <link>https://martinkoehler.me/tags/meetup/</link>
+    <link>http://martinkoehler.me/tags/meetup/</link>
     <description>Recent content in Meetup on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Austrian Big Data Forum organises next DataCamp</title>
-      <link>https://martinkoehler.me/post/meetup/</link>
+      <link>http://martinkoehler.me/post/meetup/</link>
       <pubDate>Thu, 20 Apr 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/meetup/</guid>
+      <guid>http://martinkoehler.me/post/meetup/</guid>
       <description>&lt;p&gt;The meetup group &lt;a href=&#34;https://www.meetup.com/Austrian-Cloud-and-Big-Data-Forum/&#34;&gt;Austrian Big Data Forum&lt;/a&gt; organises a Barcamp Event with short Lightning Talks and long discussions about your topics in Vienna. The event is hosted by the Austrian computer society (OCG) and takes place May 30, 2017.&lt;/p&gt;
 </description>
     </item>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 on Martin Koehler</title>
-    <link>https://martinkoehler.me/publication_types/4/</link>
+    <link>http://martinkoehler.me/publication_types/4/</link>
     <description>Recent content in 4 on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>#Big Data in #Austria</title>
-      <link>https://martinkoehler.me/publication/bigdata/</link>
+      <link>http://martinkoehler.me/publication/bigdata/</link>
       <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/publication/bigdata/</guid>
+      <guid>http://martinkoehler.me/publication/bigdata/</guid>
       <description></description>
     </item>
     

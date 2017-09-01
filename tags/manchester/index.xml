@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manchester on Martin Koehler</title>
-    <link>https://martinkoehler.me/tags/manchester/</link>
+    <link>http://martinkoehler.me/tags/manchester/</link>
     <description>Recent content in Manchester on Martin Koehler</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Started as research associate at University of Manchester in the VADA project</title>
-      <link>https://martinkoehler.me/post/vadastart/</link>
+      <link>http://martinkoehler.me/post/vadastart/</link>
       <pubDate>Sun, 01 Nov 2015 12:00:00 +0000</pubDate>
       
-      <guid>https://martinkoehler.me/post/vadastart/</guid>
+      <guid>http://martinkoehler.me/post/vadastart/</guid>
       <description></description>
     </item>
     
