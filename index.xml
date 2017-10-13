@@ -20,6 +20,16 @@
     </item>
     
     <item>
+      <title>Our paper on data context informed data wrangling has been accepted at IEEE Big Data&#39;17</title>
+      <link>https://koehlermartin.github.io/post/bigdatapaper/</link>
+      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/bigdatapaper/</guid>
+      <description>&lt;p&gt;The paper presents a methodology to fully automate an end-to-end data wrangling process incorporating data context, which associates portions of a target schema with potentially spurious extensional data of types that are commonly available. Data context, i.e. instance-based evidence, together with data profiling paves the way to inform automation in several steps within the wrangling process, specifically, matching, mapping validation, value format transformation, and data repair. We are happy to present the paper at &lt;a href=&#34;http://cci.drexel.edu/bigdata/bigdata2017/index.html&#34;&gt;IEEE Big Data 2017&lt;/a&gt; in Boston, USA, December 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Data context informed data wrangling</title>
       <link>https://koehlermartin.github.io/talk/vadalondon/</link>
       <pubDate>Fri, 15 Sep 2017 15:00:00 +0000</pubDate>
@@ -143,15 +153,6 @@ The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Securi
       <pubDate>Thu, 17 Sep 2015 15:00:00 +0000</pubDate>
       
       <guid>https://koehlermartin.github.io/talk/futuretrends/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Big Data: Storage and Analysis</title>
-      <link>https://koehlermartin.github.io/talk/maribor/</link>
-      <pubDate>Tue, 16 Jun 2015 15:00:00 +0000</pubDate>
-      
-      <guid>https://koehlermartin.github.io/talk/maribor/</guid>
       <description></description>
     </item>
     
