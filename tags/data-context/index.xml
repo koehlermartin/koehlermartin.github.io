@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Context on Martin Koehler</title>
+    <link>https://koehlermartin.github.io/tags/data-context/</link>
+    <description>Recent content in Data Context on Martin Koehler</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Koehler</copyright>
+    <lastBuildDate>Thu, 12 Oct 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/data-context/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Our paper on data context informed data wrangling has been accepted at IEEE Big Data&#39;17</title>
+      <link>https://koehlermartin.github.io/post/bigdatapaper/</link>
+      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/bigdatapaper/</guid>
+      <description>&lt;p&gt;The paper presents a methodology to fully automate an end-to-end data wrangling process incorporating data context, which associates portions of a target schema with potentially spurious extensional data of types that are commonly available. Data context, i.e. instance-based evidence, together with data profiling paves the way to inform automation in several steps within the wrangling process, specifically, matching, mapping validation, value format transformation, and data repair. We are happy to present the paper at &lt;a href=&#34;http://cci.drexel.edu/bigdata/bigdata2017/index.html&#34;&gt;IEEE Big Data 2017&lt;/a&gt; in Boston, USA, December 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

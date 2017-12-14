@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Martin Koehler</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Dec 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Context Informed Data Wrangling</title>
+      <link>https://koehlermartin.github.io/publication/wrangling/</link>
+      <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/publication/wrangling/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The VADA Architecture for Cost-Effective Data Wrangling</title>
