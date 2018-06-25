@@ -14,6 +14,24 @@
     
     <url>
     
+      <loc>https://koehlermartin.github.io/publication/sourceselect/</loc>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://koehlermartin.github.io/post/sourcesel/</loc>
+      <lastmod>2018-03-12T12:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://koehlermartin.github.io/post/bigdatapaper/</loc>
       <lastmod>2017-12-12T12:00:00+00:00</lastmod>
     </url>
@@ -25,15 +43,6 @@
     
       <loc>https://koehlermartin.github.io/publication/wrangling/</loc>
       <lastmod>2017-12-10T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://koehlermartin.github.io/publication/sourceselect/</loc>
-      <lastmod>2017-12-09T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -106,15 +115,6 @@
     
       <loc>https://koehlermartin.github.io/publication/container/</loc>
       <lastmod>2017-04-02T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://koehlermartin.github.io/post/sourcesel/</loc>
-      <lastmod>2017-03-12T12:00:00+00:00</lastmod>
     </url>
     
   
@@ -367,7 +367,7 @@
     <url>
     
       <loc>https://koehlermartin.github.io/publication_types/2/</loc>
-      <lastmod>2017-12-09T00:00:00+00:00</lastmod>
+      <lastmod>2018-03-22T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -536,7 +536,7 @@
     <url>
     
       <loc>https://koehlermartin.github.io/tags/source-selection/</loc>
-      <lastmod>2017-03-12T12:00:00+00:00</lastmod>
+      <lastmod>2018-03-12T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -556,7 +556,7 @@
     <url>
     
       <loc>https://koehlermartin.github.io/tags/user-context/</loc>
-      <lastmod>2017-03-12T12:00:00+00:00</lastmod>
+      <lastmod>2018-03-12T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -566,7 +566,7 @@
     <url>
     
       <loc>https://koehlermartin.github.io/tags/vada/</loc>
-      <lastmod>2017-12-12T12:00:00+00:00</lastmod>
+      <lastmod>2018-03-12T12:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
