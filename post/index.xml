@@ -13,20 +13,10 @@
     <item>
       <title>Our paper on data context informed data wrangling has been accepted at IEEE Big Data&#39;17</title>
       <link>https://koehlermartin.github.io/post/bigdatapaper/</link>
-      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2017 12:00:00 +0000</pubDate>
       
       <guid>https://koehlermartin.github.io/post/bigdatapaper/</guid>
       <description>&lt;p&gt;The &lt;a target=&#34;_blank&#34; href=&#34;https://www.aminer.cn/archive/data-context-informed-data-wrangling/5a308c4ee33a5d2723c482bb&#34;&gt;paper&lt;/a&gt; presents a methodology to fully automate an end-to-end data wrangling process incorporating data context, which associates portions of a target schema with potentially spurious extensional data of types that are commonly available. Data context, i.e. instance-based evidence, together with data profiling paves the way to inform automation in several steps within the wrangling process, specifically, matching, mapping validation, value format transformation, and data repair.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>
-      <link>https://koehlermartin.github.io/post/sourcesel/</link>
-      <pubDate>Tue, 12 Sep 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://koehlermartin.github.io/post/sourcesel/</guid>
-      <description>&lt;p&gt;The paper presents a user-driven approach to source selection that seeks to identify sources that are most fit for purpose. The approach employs a decision support methodology to take account of a user’s context, to allow end users to tune their preferences by specifying the relative importance between different criteria, looking to find a trade-off solution aligned with his/her preferences. The &lt;a href=&#34;https://authors.elsevier.com/sd/article/S0020-0255(17)31092-7&#34;&gt;paper&lt;/a&gt; is available online and open access.&lt;/p&gt;
 </description>
     </item>
     
@@ -57,6 +47,16 @@
       
       <guid>https://koehlermartin.github.io/post/meetup/</guid>
       <description>&lt;p&gt;The meetup group &lt;a href=&#34;https://www.meetup.com/Austrian-Cloud-and-Big-Data-Forum/&#34;&gt;Austrian Big Data Forum&lt;/a&gt; organises a Barcamp Event with short Lightning Talks and long discussions about your topics in Vienna. The event is hosted by the Austrian computer society (OCG) and takes place May 30, 2017.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>
+      <link>https://koehlermartin.github.io/post/sourcesel/</link>
+      <pubDate>Sun, 12 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/sourcesel/</guid>
+      <description>&lt;p&gt;The paper presents a user-driven approach to source selection that seeks to identify sources that are most fit for purpose. The approach employs a decision support methodology to take account of a user’s context, to allow end users to tune their preferences by specifying the relative importance between different criteria, looking to find a trade-off solution aligned with his/her preferences. The &lt;a href=&#34;https://authors.elsevier.com/sd/article/S0020-0255(17)31092-7&#34;&gt;paper&lt;/a&gt; is available online and open access.&lt;/p&gt;
 </description>
     </item>
     

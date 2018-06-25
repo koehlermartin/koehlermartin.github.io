@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Martin Koehler</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 12:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/user-context/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>
       <link>https://koehlermartin.github.io/post/sourcesel/</link>
-      <pubDate>Tue, 12 Sep 2017 12:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2017 12:00:00 +0000</pubDate>
       
       <guid>https://koehlermartin.github.io/post/sourcesel/</guid>
       <description>&lt;p&gt;The paper presents a user-driven approach to source selection that seeks to identify sources that are most fit for purpose. The approach employs a decision support methodology to take account of a user’s context, to allow end users to tune their preferences by specifying the relative importance between different criteria, looking to find a trade-off solution aligned with his/her preferences. The &lt;a href=&#34;https://authors.elsevier.com/sd/article/S0020-0255(17)31092-7&#34;&gt;paper&lt;/a&gt; is available online and open access.&lt;/p&gt;

@@ -7,26 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Martin Koehler</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 12:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/vada/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Our paper on data context informed data wrangling has been accepted at IEEE Big Data&#39;17</title>
       <link>https://koehlermartin.github.io/post/bigdatapaper/</link>
-      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2017 12:00:00 +0000</pubDate>
       
       <guid>https://koehlermartin.github.io/post/bigdatapaper/</guid>
       <description>&lt;p&gt;The &lt;a target=&#34;_blank&#34; href=&#34;https://www.aminer.cn/archive/data-context-informed-data-wrangling/5a308c4ee33a5d2723c482bb&#34;&gt;paper&lt;/a&gt; presents a methodology to fully automate an end-to-end data wrangling process incorporating data context, which associates portions of a target schema with potentially spurious extensional data of types that are commonly available. Data context, i.e. instance-based evidence, together with data profiling paves the way to inform automation in several steps within the wrangling process, specifically, matching, mapping validation, value format transformation, and data repair.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>
-      <link>https://koehlermartin.github.io/post/sourcesel/</link>
-      <pubDate>Tue, 12 Sep 2017 12:00:00 +0000</pubDate>
-      
-      <guid>https://koehlermartin.github.io/post/sourcesel/</guid>
-      <description>&lt;p&gt;The paper presents a user-driven approach to source selection that seeks to identify sources that are most fit for purpose. The approach employs a decision support methodology to take account of a user’s context, to allow end users to tune their preferences by specifying the relative importance between different criteria, looking to find a trade-off solution aligned with his/her preferences. The &lt;a href=&#34;https://authors.elsevier.com/sd/article/S0020-0255(17)31092-7&#34;&gt;paper&lt;/a&gt; is available online and open access.&lt;/p&gt;
 </description>
     </item>
     
@@ -52,6 +42,16 @@
 The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Security in security, FutureEverything in smart cities, LambdaTek and PricePanda in online retailing, and Huawei in telecommunications. The commercial opportunities associated with effective solutions are great, as is reflected in the close engagement of our technical partners, Microsoft, LogicBlox, FaceBook, and NeoTechnology who must develop platforms that support their customers in adding value to their data. The strong commitment of these organisations to the programme is reflected in the diverse and substantive contributions, valued at $2.02M ($337k in cash and $1.68M in kind).&lt;/p&gt;
 
 &lt;p&gt;As described below, meeting the vision involves considerable ambition, bringing together and redefining several heretofore largely independently investigated areas, each of which are individually challenging. The need for flexible, integrated solutions to these problems is emphasised in the recent Beckman Report on Database Research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>
+      <link>https://koehlermartin.github.io/post/sourcesel/</link>
+      <pubDate>Sun, 12 Mar 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/sourcesel/</guid>
+      <description>&lt;p&gt;The paper presents a user-driven approach to source selection that seeks to identify sources that are most fit for purpose. The approach employs a decision support methodology to take account of a user’s context, to allow end users to tune their preferences by specifying the relative importance between different criteria, looking to find a trade-off solution aligned with his/her preferences. The &lt;a href=&#34;https://authors.elsevier.com/sd/article/S0020-0255(17)31092-7&#34;&gt;paper&lt;/a&gt; is available online and open access.&lt;/p&gt;
 </description>
     </item>
     

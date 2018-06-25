@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Martin Koehler</copyright>
-    <lastBuildDate>Thu, 12 Oct 2017 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 12:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/wrangling/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Our paper on data context informed data wrangling has been accepted at IEEE Big Data&#39;17</title>
       <link>https://koehlermartin.github.io/post/bigdatapaper/</link>
-      <pubDate>Thu, 12 Oct 2017 12:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Dec 2017 12:00:00 +0000</pubDate>
       
       <guid>https://koehlermartin.github.io/post/bigdatapaper/</guid>
       <description>&lt;p&gt;The &lt;a target=&#34;_blank&#34; href=&#34;https://www.aminer.cn/archive/data-context-informed-data-wrangling/5a308c4ee33a5d2723c482bb&#34;&gt;paper&lt;/a&gt; presents a methodology to fully automate an end-to-end data wrangling process incorporating data context, which associates portions of a target schema with potentially spurious extensional data of types that are commonly available. Data context, i.e. instance-based evidence, together with data profiling paves the way to inform automation in several steps within the wrangling process, specifically, matching, mapping validation, value format transformation, and data repair.&lt;/p&gt;
