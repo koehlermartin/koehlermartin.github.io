@@ -7,8 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Martin Koehler</copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 12:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/source-selection/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A demonstration of user driven and multi-criteria source selection will be presented at the ACM CIKM conference</title>
+      <link>https://koehlermartin.github.io/post/sourcesel_demo/</link>
+      <pubDate>Wed, 26 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/sourcesel_demo/</guid>
+      <description>&lt;p&gt;The paper demonstrates the SOURCERY system supporting interactive multi-criteria user-driven source selection. The demonstration of the system will take place in Turin, Italy in October 2018.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper on user driven multi-criteria source selection has been accepted in the Information Sciences Journal, Elsevier</title>

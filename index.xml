@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A demonstration of user driven and multi-criteria source selection will be presented at the ACM CIKM conference</title>
+      <link>https://koehlermartin.github.io/post/sourcesel_demo/</link>
+      <pubDate>Wed, 26 Sep 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/sourcesel_demo/</guid>
+      <description>&lt;p&gt;The paper demonstrates the SOURCERY system supporting interactive multi-criteria user-driven source selection. The demonstration of the system will take place in Turin, Italy in October 2018.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SOURCERY: User Driven Multi-Criteria Source Selection</title>
+      <link>https://koehlermartin.github.io/publication/sourceselect_demo/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/publication/sourceselect_demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The VADA system: architecture and use cases</title>
       <link>https://koehlermartin.github.io/talk/vadalondon2/</link>
       <pubDate>Thu, 22 Mar 2018 15:00:00 +0000</pubDate>
@@ -136,25 +155,6 @@ The Christie NHS Trust in healthcare, AllianceBernstein in finance, Horus Securi
       
       <guid>https://koehlermartin.github.io/publication/container/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Demonstration of the VADA data integration system</title>
-      <link>https://koehlermartin.github.io/talk/vadaoxford/</link>
-      <pubDate>Thu, 26 May 2016 15:00:00 +0000</pubDate>
-      
-      <guid>https://koehlermartin.github.io/talk/vadaoxford/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Retida - Real-Time Data Analytics in the Mobility Domain</title>
-      <link>https://koehlermartin.github.io/project/retida/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://koehlermartin.github.io/project/retida/</guid>
-      <description>&lt;p&gt;Enabling real-time, large-scale analytical workflows for data-intensive science requires the integration of state-of-the-art technologies from various different fields. We thus propose to bring together latest developments from Big Data (NoSQL solutions and data-intensive programming, streaming engines), HPC (parallel programming, multi-/many-core architectures, GPUs, clusters), data analytics (analytical models and algorithms), and workflow management (definition and orchestration) in an innovative manner. Optimizing and tuning the execution strategy for data analysis jobs requires explicit knowledge about the system (data and compute resources) and the algorithms used inside the workflows. Even for experts, tuning of complex workflows gets more and more involved and time-consuming and thus is often restricted to a single application or the outer workflow level. Therefore, there is an urgent need for adaptive mechanisms that automatically configure and tune workflows and their execution environment by taking into account the characteristics of the data, the workflow modules (existing in different implementation variants), and the available heterogeneous hardware infrastructure in order to achieve the required QoS.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
