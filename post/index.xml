@@ -11,6 +11,16 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>A journal paper on automizing an end-to-end data wrangling pipeline has been accepted in the IEEE Transactions on Big Data</title>
+      <link>https://koehlermartin.github.io/post/tbd/</link>
+      <pubDate>Wed, 20 Mar 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://koehlermartin.github.io/post/tbd/</guid>
+      <description>&lt;p&gt;he paper describes and evaluates the process of preparing potentially large and complex data sets for further analysis or manual examination that is often called data wrangling. In classical warehousing environments, the steps in such a process are carried out using Extract-Transform-Load platforms, with significant manual involvement in specifying, configuring or tuning many of them. In typical big data applications, we need to ensure that all wrangling steps, including web extraction, selection, integration and cleaning, benefit from automation wherever possible. The approach optimises the accuracy, consistency and relevance of the result and the is evaluated with real estate data and financial data, showing substantial improvements in the results of automated wrangling. The paper will appear soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A demonstration of user driven and multi-criteria source selection will be presented at the ACM CIKM conference</title>
       <link>https://koehlermartin.github.io/post/sourcesel_demo/</link>
       <pubDate>Wed, 26 Sep 2018 12:00:00 +0000</pubDate>
